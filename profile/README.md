@@ -3,11 +3,11 @@
 </p>
 
 > [!IMPORTANT]
-> **Krateo PlatformOps has moved to [github.com/krateo-platformops](https://github.com/krateo-platformops).**
-> The main repository, new development, issues and Discussions are there. Start from [krateo-platformops/krateo](https://github.com/krateo-platformops/krateo).
+> **The main Krateo PlatformOps repository has moved to [krateo-platformops/krateo](https://github.com/krateo-platformops/krateo).**
+> Start there: it explains what Krateo is and how to install it, and hosts Discussions. The new organization is [krateo-platformops](https://github.com/krateo-platformops).
 
 ## What stays here
 
-This organization hosts the components and tools of the **Krateo 3.x** release line, including [`krateoctl`](https://github.com/krateoplatformops/krateoctl), the release manifests and the [documentation sources](https://github.com/krateoplatformops/krateo-v2-docs). Existing 3.x installations keep working from here, as described in the [3.0 documentation](https://docs.krateo.io/?utm_source=github&utm_medium=org-profile&utm_campaign=krateo-legacy).
+This organization hosts [`krateoctl`](https://github.com/krateoplatformops/krateoctl), the [release manifests](https://github.com/krateoplatformops/releases), the [documentation sources](https://github.com/krateoplatformops/krateo-v2-docs) and the components that the [3.0 documentation](https://docs.krateo.io/?utm_source=github&utm_medium=org-profile&utm_campaign=krateo-legacy) installs. Report a bug in the repository of the component it concerns.
 
-For anything new, including questions, bug reports and contributions, use [krateo-platformops](https://github.com/krateo-platformops).
+For questions and ideas, use [Discussions](https://github.com/krateo-platformops/krateo/discussions).
